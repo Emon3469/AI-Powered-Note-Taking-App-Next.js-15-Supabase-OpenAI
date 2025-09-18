@@ -2,6 +2,11 @@
 
 A modern, AI-powered note-taking application built with Next.js 15, featuring real-time collaboration, intelligent search, and seamless cloud synchronization.
 
+<img width="1918" height="951" alt="project2" src="https://github.com/user-attachments/assets/049c5f90-fa67-4834-9200-e5fe781af589" />
+<img width="1917" height="957" alt="project2_a" src="https://github.com/user-attachments/assets/52650e65-f8fc-4d07-bec9-aae7f7abcf1e" />
+
+
+
 ## ✨ Features
 
 - **🔐 User Authentication** - Secure login/signup with Supabase Auth
